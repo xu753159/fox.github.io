@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2021/02/23/helloworld/index2/"/>
+    <url>/2021/02/23/helloworld/index2/</url>
+    
+    <content type="html"><![CDATA[<p>title:</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>title</title>
+    <link href="/2021/02/23/helloworld/index/"/>
+    <url>/2021/02/23/helloworld/index/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    <categories>
+      
+      <category>Hexo</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Tag1 Tag2</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
